@@ -107,10 +107,10 @@ have been renamed from the original "features.txt" file. Abbreviations either ha
 "StandDev"). Numeric values in columns 3-68 of the tidy data set represent the average of each variable for 
 each activity and each subject.
 
-1. Subject
+1. Subject  
     The subject who performed the activity. Subjects are numbered 1 to 30
     
-2. Activity
+2. Activity  
     Six options:
 
     *Walking
