@@ -112,208 +112,208 @@ each activity and each subject.
     
 2. Activity
     Six options:
-    
-    *Walking
+
+    *Walking Upstars
     *Walking Upstairs
     *Walking Downstairs
     *Sitting
     *Standing
     *Laying
     
-3. Time_BodyAccelerometer_Mean_X
+3. Time_BodyAccelerometer_Mean_X  
     Original variable title in Samsung dataset: tBodyAcc-mean()-X
 
-4. Time_BodyAccelerometer_Mean_Y
+4. Time_BodyAccelerometer_Mean_Y  
     Original variable title in Samsung dataset: tBodyAcc-mean()-Y
 
-5. Time_BodyAccelerometer_Mean_Z     
+5. Time_BodyAccelerometer_Mean_Z       
     Original variable title in Samsung dataset: tBodyAcc-mean()-Z
 
-6. Time_BodyAccelerometer_StandDev_X 
+6. Time_BodyAccelerometer_StandDev_X   
     Original variable title in Samsung dataset: tBodyAcc-std()-X
 
-7. Time_BodyAccelerometer_StandDev_Y
+7. Time_BodyAccelerometer_StandDev_Y  
     Original variable title in Samsung dataset: tBodyAcc-std()-Y
 
-8. Time_BodyAccelerometer_StandDev_Z
+8. Time_BodyAccelerometer_StandDev_Z  
     Original variable title in Samsung dataset: tBodyAcc-std()-Z
 
-9. Time_GravityAccelerometer_Mean_X
+9. Time_GravityAccelerometer_Mean_X     
     Original variable title in Samsung dataset: tGravityAcc-mean()-X
 
-10. Time_GravityAccelerometer_Mean_Y
+10. Time_GravityAccelerometer_Mean_Y  
     Original variable title in Samsung dataset: tGravityAcc-mean()-Y
 
-11. Time_GravityAccelerometer_Mean_Z
+11. Time_GravityAccelerometer_Mean_Z  
     Original variable title in Samsung dataset: tGravityAcc-mean()-Z
 
-12. Time_GravityAccelerometer_StandDev_X
+12. Time_GravityAccelerometer_StandDev_X  
     Original variable title in Samsung dataset: tGravityAcc-std()-X
 
-13. Time_GravityAccelerometer_StandDev_Y
+13. Time_GravityAccelerometer_StandDev_Y  
     Original variable title in Samsung dataset: tGravityAcc-std()-Y
 
-14. Time_GravityAccelerometer_StandDev_Z
+14. Time_GravityAccelerometer_StandDev_Z  
     Original variable title in Samsung dataset: tGravityAcc-std()-Z
 
-15. Time_BodyAccelerometer_JerkSignal_Mean_X
+15. Time_BodyAccelerometer_JerkSignal_Mean_X  
     Original variable title in Samsung dataset: tBodyAccJerk-mean()-X
 
-16. Time_BodyAccelerometer_JerkSignal_Mean_Y
+16. Time_BodyAccelerometer_JerkSignal_Mean_Y  
     Original variable title in Samsung dataset: tBodyAccJerk-mean()-Y
 
-17. Time_BodyAccelerometer_JerkSignal_Mean_Z
+17. Time_BodyAccelerometer_JerkSignal_Mean_Z   
     Original variable title in Samsung dataset: tBodyAccJerk-mean()-Z
 
-18. Time_BodyAccelerometer_JerkSignal_StandDev_X
+18. Time_BodyAccelerometer_JerkSignal_StandDev_X  
     Original variable title in Samsung dataset: tBodyAccJerk-std()-X
 
-19. Time_BodyAccelerometer_JerkSignal_StandDev_Y
+19. Time_BodyAccelerometer_JerkSignal_StandDev_Y  
     Original variable title in Samsung dataset: tBodyAccJerk-std()-Y
 
-20. Time_BodyAccelerometer_JerkSignal_StandDev_Z
+20. Time_BodyAccelerometer_JerkSignal_StandDev_Z  
     Original variable title in Samsung dataset: tBodyAccJerk-std()-Z
 
-21. Time_BodyGyroscope_Mean_X
+21. Time_BodyGyroscope_Mean_X  
     Original variable title in Samsung dataset: tBodyGyro-mean()-X
 
-22. Time_BodyGyroscope_Mean_Y
+22. Time_BodyGyroscope_Mean_Y  
     Original variable title in Samsung dataset: tBodyGyro-mean()-Y
 
-23. Time_BodyGyroscope_Mean_Z
+23. Time_BodyGyroscope_Mean_Z  
     Original variable title in Samsung dataset: tBodyGyro-mean()-Z
 
-24. Time_BodyGyroscope_StandDev_X
+24. Time_BodyGyroscope_StandDev_X  
     Original variable title in Samsung dataset: tBodyGyro-std()-X
 
-25. Time_BodyGyroscope_StandDev_Y
+25. Time_BodyGyroscope_StandDev_Y  
     Original variable title in Samsung dataset: tBodyGyro-std()-Y
 
-26. Time_BodyGyroscope_StandDev_Z
+26. Time_BodyGyroscope_StandDev_Z  
     Original variable title in Samsung dataset: tBodyGyro-std()-Z
 
-27. Time_BodyGyroscope_JerkSignal_Mean_X
+27. Time_BodyGyroscope_JerkSignal_Mean_X  
     Original variable title in Samsung dataset: tBodyGyroJerk-mean()-X
 
-28. Time_BodyGyroscope_JerkSignal_Mean_Y
+28. Time_BodyGyroscope_JerkSignal_Mean_Y  
     Original variable title in Samsung dataset: tBodyGyroJerk-mean()-Y
 
-29. Time_BodyGyroscope_JerkSignal_Mean_Z
+29. Time_BodyGyroscope_JerkSignal_Mean_Z  
     Original variable title in Samsung dataset: tBodyGyroJerk-mean()-Z
 
-30. Time_BodyGyroscope_JerkSignal_StandDev_X
+30. Time_BodyGyroscope_JerkSignal_StandDev_X  
     Original variable title in Samsung dataset: tBodyGyroJerk-std()-X
 
-31. Time_BodyGyroscope_JerkSignal_StandDev_Y
+31. Time_BodyGyroscope_JerkSignal_StandDev_Y  
     Original variable title in Samsung dataset: tBodyGyroJerk-mean()-Y
 
-32. Time_BodyGyroscope_JerkSignal_StandDev_Z
+32. Time_BodyGyroscope_JerkSignal_StandDev_Z  
     Original variable title in Samsung dataset: tBodyGyroJerk-mean()-Z
 
-33. Time_BodyAccelerometer_Magnitude_Mean
+33. Time_BodyAccelerometer_Magnitude_Mean  
     Original variable title in Samsung dataset: tBodyAccMag-mean()
 
-34. Time_BodyAccelerometer_Magnitude_StandDev
+34. Time_BodyAccelerometer_Magnitude_StandDev  
     Original variable title in Samsung dataset: tBodyAccMag-std()
 
-35. Time_GravityAccelerometer_Magnitude_Mean
+35. Time_GravityAccelerometer_Magnitude_Mean  
     Original variable title in Samsung dataset: tGravityAccMag-mean()
 
-36. Time_GravityAccelerometer_Magnitude_StandDev
+36. Time_GravityAccelerometer_Magnitude_StandDev  
     Original variable title in Samsung dataset: tGravityAccMag-std()
 
-37. Time_BodyAccelerometer_JerkSignal_Magnitude_Mean
+37. Time_BodyAccelerometer_JerkSignal_Magnitude_Mean  
     Original variable title in Samsung dataset: tBodyAccJerkMag-mean()
 
-38. Time_BodyAccelerometer_JerkSignal_Magnitude_StandDev
+38. Time_BodyAccelerometer_JerkSignal_Magnitude_StandDev  
     Original variable title in Samsung dataset: tBodyAccJerkMag-std()
 
-39. Time_BodyGyroscope_Magnitude_Mean
+39. Time_BodyGyroscope_Magnitude_Mean  
     Original variable title in Samsung dataset: tBodyGyroMag-mean()
 
-40. Time_BodyGyroscope_Magnitude_StandDev
+40. Time_BodyGyroscope_Magnitude_StandDev  
     Original variable title in Samsung dataset: tBodyGyroMag-std()
 
-41. Time_BodyGyroscope_JerkSignal_Magnitude_Mean
+41. Time_BodyGyroscope_JerkSignal_Magnitude_Mean  
     Original variable title in Samsung dataset: tBodyGyroJerkMag-mean()
 
-42. Time_BodyGyroscope_JerkSignal_Magnitude_StandDev
+42. Time_BodyGyroscope_JerkSignal_Magnitude_StandDev  
     Original variable title in Samsung dataset: tBodyGyroJerkMag-std()
 
-43. Frequency_BodyAccelerometer_Mean_X
+43. Frequency_BodyAccelerometer_Mean_X  
     Original variable title in Samsung dataset: fBodyAcc-mean()-X
 
-44. Frequency_BodyAccelerometer_Mean_Y
+44. Frequency_BodyAccelerometer_Mean_Y  
     Original variable title in Samsung dataset: fBodyAcc-mean()-Y
 
-45. Frequency_BodyAccelerometer_Mean_Z
+45. Frequency_BodyAccelerometer_Mean_Z  
     Original variable title in Samsung dataset: fBodyAcc-mean()-Z
 
-46. Frequency_BodyAccelerometer_StandDev_X
+46. Frequency_BodyAccelerometer_StandDev_X  
     Original variable title in Samsung dataset: fBodyAcc-std()-X
 
-47. Frequency_BodyAccelerometer_StandDev_Y
+47. Frequency_BodyAccelerometer_StandDev_Y  
     Original variable title in Samsung dataset: fBodyAcc-std()-Y
 
-48. Frequency_BodyAccelerometer_StandDev_Z
+48. Frequency_BodyAccelerometer_StandDev_Z  
     Original variable title in Samsung dataset: fBodyAcc-std()-Z
 
-49. Frequency_BodyAccelerometer_JerkSignal_Mean_X
+49. Frequency_BodyAccelerometer_JerkSignal_Mean_X  
     Original variable title in Samsung dataset: fBodyAccJerk-mean()-X
 
-50. Frequency_BodyAccelerometer_JerkSignal_Mean_Y
+50. Frequency_BodyAccelerometer_JerkSignal_Mean_Y  
     Original variable title in Samsung dataset: fBodyAccJerk-mean()-Y
 
-51. Frequency_BodyAccelerometer_JerkSignal_Mean_Z
+51. Frequency_BodyAccelerometer_JerkSignal_Mean_Z  
     Original variable title in Samsung dataset: fBodyAccJerk-mean()-Z
 
-52. Frequency_BodyAccelerometer_JerkSignal_StandDev_X
+52. Frequency_BodyAccelerometer_JerkSignal_StandDev_X  
     Original variable title in Samsung dataset: fBodyAccJerk-std()-X
 
-53. Frequency_BodyAccelerometer_JerkSignal_StandDev_Y
+53. Frequency_BodyAccelerometer_JerkSignal_StandDev_Y  
     Original variable title in Samsung dataset: fBodyAccJerk-std()-Y
 
-54. Frequency_BodyAccelerometer_JerkSignal_StandDev_Z
+54. Frequency_BodyAccelerometer_JerkSignal_StandDev_Z  
     Original variable title in Samsung dataset: fBodyAccJerk-std()-Z
 
-55. Frequency_BodyGyroscope_Mean_X
+55. Frequency_BodyGyroscope_Mean_X  
     Original variable title in Samsung dataset: fBodyGyro-mean()-X
 
-56. Frequency_BodyGyroscope_Mean_Y
+56. Frequency_BodyGyroscope_Mean_Y  
     Original variable title in Samsung dataset: fBodyGyro-mean()-Y
 
-57. Frequency_BodyGyroscope_Mean_Z
+57. Frequency_BodyGyroscope_Mean_Z  
     Original variable title in Samsung dataset: fBodyGyro-mean()-Z
 
-58. Frequency_BodyGyroscope_StandDev_X
+58. Frequency_BodyGyroscope_StandDev_X  
     Original variable title in Samsung dataset: fBodyGyro-std()-X
 
-59. Frequency_BodyGyroscope_StandDev_Y
+59. Frequency_BodyGyroscope_StandDev_Y  
     Original variable title in Samsung dataset: fBodyGyro-std()-Y
 
-60. Frequency_BodyGyroscope_StandDev_Z
+60. Frequency_BodyGyroscope_StandDev_Z  
     Original variable title in Samsung dataset: fBodyGyro-std()-Z
 
-61. Frequency_BodyAccelerometer_Magnitude_Mean
+61. Frequency_BodyAccelerometer_Magnitude_Mean  
     Original variable title in Samsung dataset: fBodyAccMag-mean()
 
-62. Frequency_BodyAccelerometer_Magnitude_StandDev
+62. Frequency_BodyAccelerometer_Magnitude_StandDev  
     Original variable title in Samsung dataset: fBodyAccMag-std()
 
-63. Frequency_BodyAccelerometer_JerkSignal_Magnitude_Mean
+63. Frequency_BodyAccelerometer_JerkSignal_Magnitude_Mean  
     Original variable title in Samsung dataset: fBodyBodyAccJerkMag-mean()
 
-64. Frequency_BodyAccelerometer_JerkSignal_Magnitude_StandDev
+64. Frequency_BodyAccelerometer_JerkSignal_Magnitude_StandDev  
     Original variable title in Samsung dataset: fBodyBodyAccJerkMag-std()
 
-65. Frequency_BodyGyroscope_Magnitude_Mean
+65. Frequency_BodyGyroscope_Magnitude_Mean  
     Original variable title in Samsung dataset: fBodyBodyGyroMag-mean()
 
-66. Frequency_BodyGyroscope_Magnitude_StandDev
+66. Frequency_BodyGyroscope_Magnitude_StandDev  
     Original variable title in Samsung dataset: fBodyBodyGyroMag-std()
 
-67. Frequency_BodyGyroscope_JerkSignal_Magnitude_Mean
+67. Frequency_BodyGyroscope_JerkSignal_Magnitude_Mean  
     Original variable title in Samsung dataset: fBodyBodyGyroJerkMag-mean()
 
-68. Frequency_BodyGyroscope_JerkSignal_Magnitude_StandDev
+68. Frequency_BodyGyroscope_JerkSignal_Magnitude_StandDev  
     Original variable title in Samsung dataset: fBodyBodyGyroJerkMag-std()
