@@ -113,7 +113,7 @@ each activity and each subject.
 2. Activity
     Six options:
 
-    *Walking Upstars
+    *Walking
     *Walking Upstairs
     *Walking Downstairs
     *Sitting
